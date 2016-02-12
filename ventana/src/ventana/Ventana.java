@@ -12,6 +12,7 @@ public class Ventana {
     
     public void imprimirMensaje(){
         System.out.println("Hola mundo");
+        System.out.println("Meribeth Zúñiga Zúñiga");
     }
 
     
